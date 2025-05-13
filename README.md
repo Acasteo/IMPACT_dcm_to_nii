@@ -76,7 +76,7 @@ Example configuration('labels_template.json')
 To run the pipeline, use the following command:
 
 ```bash
-usage: convert.py [-h] [--input INPUT] [--output OUTPUT] [--nifti] [--mhd] [-l LABEL_JSON]
+usage: convert.py [-h] [--input INPUT] [--output OUTPUT] [--nifti] [--mhd] [-l LABEL_JSON]  [--anon] [--mist]
 
 optional arguments:
   -h, --help            show this help message and exit
