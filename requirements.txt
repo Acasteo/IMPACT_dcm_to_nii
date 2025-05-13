@@ -1,0 +1,5 @@
+dcmrtstruct2nii == 2
+pydicom 
+SimpleITK 
+numpy 
+pandas
